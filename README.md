@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @caiiibr 
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning HTML5,CSS3 and JavaScript.
+- 👋 Hi, I’m Camila.
+- 🌱 I’m into HTML5,CSS3, JavaScript and React.
+- 🖳 learning about .net and MAUI
 - 📫 You can reach me here or at camilla.matos@gmail.com
 
 <!---
